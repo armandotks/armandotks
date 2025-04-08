@@ -1,26 +1,26 @@
-name: Generate Snake with Dark Theme
+name: Generate Snake Game 🐍 (dark style)
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+    - cron: "0 0 * * *" # Executa todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+      - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: armandotks
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff00ff&color_dots=#1e1e1e,#39d353,#26a641,#006d32,#0e4429
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff00ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Subir resultado no GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
