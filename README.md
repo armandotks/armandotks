@@ -32,6 +32,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/armandotks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandotks&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandotks&layout=compact&theme=tokyonight"/>
 </div>
