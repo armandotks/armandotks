@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todos os dias à meia-noite UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,10 +22,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Fazer push da animação
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
