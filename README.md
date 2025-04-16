@@ -42,7 +42,7 @@
 ### 📫 Onde me encontrar
 
 <div> 
-  <img align="right" alt="julio" height="200" width"150" src= "https://cdn.discordapp.com/attachments/1153878811511885955/1359243356735144048/eu_ia_kk.png?ex=67f6c585&is=67f57405&hm=2ded938ca210ea7c99e5fbc0bc6ffdcc38edbe56943e39a07907bb7084a24de1&" />
+  <img align="right" alt="julio" height="200" width"150" src= "https://cdn.discordapp.com/attachments/1362138769079275581/1362138869398503706/eu_ia_kk.png?ex=68014e2d&is=67fffcad&hm=1a64760297f6796a381a3a121c4f9c4b7e9d4389574162fba6b141e3af83ad55&" />
   <a href="mailto:armandotks70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
    <a href="https://www.instagram.com/julio_.armando/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/j%C3%BAlio-armando-a921b8261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
