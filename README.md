@@ -10,58 +10,39 @@
 
 💻 Desenvolvedor Full Stack | 🎓 Bacharel em Ciência da Computação
 
-<br>
-
 
 
 </div>
 
 👨‍💻 Sobre mim
 
-const julio = {
-  formacao: "Bacharel em Ciência da Computação 🎓",
+Sou Bacharel em Ciência da Computação e atualmente atuo como Desenvolvedor Full Stack, criando soluções completas para aplicações web, do front-end ao back-end.
 
-  profissao: "Desenvolvedor Full Stack 💻",
+Tenho interesse em desenvolvimento de software, APIs, automações, bancos de dados e novas tecnologias. Busco evoluir constantemente, aplicando boas práticas e construindo soluções modernas, eficientes e bem estruturadas.
 
-  areas: [
-    "Desenvolvimento Web",
-    "Front-end",
-    "Back-end",
-    "APIs",
-    "Banco de Dados",
-    "Automações"
-  ],
+<div align="center">
 
-  mindset: "Sempre aprendendo e evoluindo 🚀",
 
-  objetivo: "Transformar ideias em soluções eficientes."
-};
 
-Sou Bacharel em Ciência da Computação e atualmente atuo como Desenvolvedor Full Stack, trabalhando no desenvolvimento de soluções completas para aplicações web.
 
-Tenho interesse em desenvolvimento de software, automações, APIs, bancos de dados e novas tecnologias, buscando constantemente aprimorar meus conhecimentos e construir aplicações cada vez mais eficientes, escaláveis e bem estruturadas.
 
-💻 Desenvolvedor Full Stack
+</div>
 
-🎓 Bacharel em Ciência da Computação
+<br>
 
-🌐 Desenvolvimento de aplicações web
+💻 Desenvolvimento Full Stack
+
+🌐 Aplicações web modernas e responsivas
 
 ⚙️ Desenvolvimento e integração de APIs
 
 🗄️ Bancos de dados relacionais e NoSQL
 
-🤖 Interesse em automações
+🤖 Automações e integração de sistemas
 
-🧩 Foco em código limpo e boas práticas
+🧩 Código limpo, organização e boas práticas
 
-📚 Sempre estudando novas tecnologias
-
-🧠 Curioso por entender como as coisas funcionam
-
-🎮 Gamer nas horas vagas
-
-🚀 Tecnologias & Ferramentas
+📚 Aprendizado contínuo e novas tecnologias
 
 <div align="center">
 
@@ -83,53 +64,46 @@ Tenho interesse em desenvolvimento de software, automações, APIs, bancos de da
 
 <br><br>
 
-🔧 Dev Tools & Ambiente
+🛠️ Ferramentas & Ambiente
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vscode,linux&theme=dark" />
 
 </div>
 
-📊 GitHub Analytics
+🧠 O que faço
 
-<div align="center">
-
-<img
-height="175"
-src="https://github-readme-stats.vercel.app/api?username=armandotks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-/>
-
-<img
-height="175"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandotks&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=armandotks&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-📈 Atividade no GitHub
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=armandotks&bg_color=0d1117&color=00bfff&line=6a5acd&point=ffffff&area=true&hide_border=true"
-/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Front-end</h3>
+      Interfaces modernas, responsivas e focadas em uma boa experiência de uso.
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Back-end</h3>
+      APIs, regras de negócio, integrações e desenvolvimento de serviços.
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ Dados</h3>
+      Modelagem, integração e gerenciamento de bancos de dados.
+    </td>
+  </tr>
+</table>
 
 🐍 Minhas contribuições
 
 <div align="center">
 
+![snake gif](https://github.com/armandotks/armandotks/blob/output/github-contribution-grid-snake-dark.svg)
 
+</div>
+
+📂 Projetos e códigos
+
+<div align="center">
+
+<a href="https://github.com/armandotks?tab=repositories">
+  <img src="https://img.shields.io/badge/VER%20MEUS%20REPOSITÓRIOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -156,8 +130,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=armandotks&b
 💡 Código transforma ideias em soluções.
 
 Obrigado por visitar meu perfil! 🚀
-
-<br>
 
 ⭐ Sinta-se à vontade para explorar meus repositórios.
 
