@@ -1,59 +1,172 @@
-<h1 align="center">👨‍💻 Julio Armando</h1>
+<!-- ========================= -->
 
-<p align="center">
-  Estudante apaixonado por tecnologia!<br>
-  Atualmente no <strong>7º período</strong> de Ciência da Computação.
-</p>
+<!--        HEADER             -->
 
----
+<!-- ========================= -->
 
-### 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Apaixonado por desenvolvimento web e automações  
-- 🔭 Explorando novas tecnologias e sempre aprendendo  
-- 📚 Curioso por natureza, adoro entender como as coisas funcionam  
-- 🎮 Gamer nas horas vagas 
-
----
-
-### 🛠️ Tecnologias que tenho usado
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0077FF,100:00BFFF&height=190&section=header&text=Julio%20Armando&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
-  <a href="https://github.com/armandotks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandotks&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandotks&layout=compact&theme=tokyonight"/>
+
+💻 Desenvolvedor Full Stack | 🎓 Bacharel em Ciência da Computação
+
+<br>
+
+
+
 </div>
 
----
+👨‍💻 Sobre mim
 
-### 📫 Onde me encontrar
+const julio = {
+  formacao: "Bacharel em Ciência da Computação 🎓",
 
-<div> 
-  <img align="right" alt="julio" height="200" width"150" src= "https://cdn.discordapp.com/attachments/1362138769079275581/1362138869398503706/eu_ia_kk.png?ex=68014e2d&is=67fffcad&hm=1a64760297f6796a381a3a121c4f9c4b7e9d4389574162fba6b141e3af83ad55&" />
-  <a href="mailto:armandotks70@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-   <a href="https://www.instagram.com/julio_.armando/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/j%C3%BAlio-armando-a921b8261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
+  profissao: "Desenvolvedor Full Stack 💻",
+
+  areas: [
+    "Desenvolvimento Web",
+    "Front-end",
+    "Back-end",
+    "APIs",
+    "Banco de Dados",
+    "Automações"
+  ],
+
+  mindset: "Sempre aprendendo e evoluindo 🚀",
+
+  objetivo: "Transformar ideias em soluções eficientes."
+};
+
+Sou Bacharel em Ciência da Computação e atualmente atuo como Desenvolvedor Full Stack, trabalhando no desenvolvimento de soluções completas para aplicações web.
+
+Tenho interesse em desenvolvimento de software, automações, APIs, bancos de dados e novas tecnologias, buscando constantemente aprimorar meus conhecimentos e construir aplicações cada vez mais eficientes, escaláveis e bem estruturadas.
+
+💻 Desenvolvedor Full Stack
+
+🎓 Bacharel em Ciência da Computação
+
+🌐 Desenvolvimento de aplicações web
+
+⚙️ Desenvolvimento e integração de APIs
+
+🗄️ Bancos de dados relacionais e NoSQL
+
+🤖 Interesse em automações
+
+🧩 Foco em código limpo e boas práticas
+
+📚 Sempre estudando novas tecnologias
+
+🧠 Curioso por entender como as coisas funcionam
+
+🎮 Gamer nas horas vagas
+
+🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+🎨 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
+
+<br><br>
+
+⚙️ Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+
+<br><br>
+
+🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+
+<br><br>
+
+🔧 Dev Tools & Ambiente
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vscode,linux&theme=dark" />
+
 </div>
 
----
+📊 GitHub Analytics
 
-⭐ **Obrigado por visitar o meu perfil!**
+<div align="center">
 
-##
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api?username=armandotks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+/>
 
-![snake gif](https://github.com/armandotks/armandotks/blob/output/github-contribution-grid-snake-dark.svg)
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandotks&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=armandotks&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+📈 Atividade no GitHub
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=armandotks&bg_color=0d1117&color=00bfff&line=6a5acd&point=ffffff&area=true&hide_border=true"
+/>
+
+</div>
+
+🐍 Minhas contribuições
+
+<div align="center">
+
+
+
+</div>
+
+🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:armandotks70@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/j%C3%BAlio-armando-a921b8261/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/julio_.armando/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+💡 Código transforma ideias em soluções.
+
+Obrigado por visitar meu perfil! 🚀
+
+<br>
+
+⭐ Sinta-se à vontade para explorar meus repositórios.
+
+</div>
+
+<!-- ========================= -->
+
+<!--        FOOTER             -->
+
+<!-- ========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:0077FF,100:00BFFF&height=120&section=footer"/>
